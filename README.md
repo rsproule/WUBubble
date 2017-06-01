@@ -1,4 +1,4 @@
-# myapp
+# WU Bubble
 
 A new flutter project.
 
